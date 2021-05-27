@@ -1,4 +1,3 @@
-# github-example
- for class
+# Shared Example
 
-*Hey there!* I really, **really** like Markdown.
+I'm the best at writing words!
